@@ -1,0 +1,24 @@
+.main {
+  background-color: #222;
+  padding: 1em 10%;
+}
+
+.container {
+  margin: 1em;
+  background-color: #fff;
+}
+
+.resume {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+.side {
+  background-color: #003d74;
+  color: #fff;
+  padding: 1em;
+}
+
+.content {
+  padding: 1em;
+}
